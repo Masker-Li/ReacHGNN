@@ -9,7 +9,7 @@ ReacHGNN aims to provide a general framework for solving inter-molecular reactio
 
 <p align="center">
   <a href="https://github.com/Masker-Li/ReacHGNN/figures">
-    <img width=50% src="figures/HeteroGraph4Reactions.png">
+    <img width=70% src="figures/HeteroGraph4Reactions.png">
   </a>
 </p>
 
