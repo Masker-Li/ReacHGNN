@@ -8,8 +8,8 @@ This repository includes the codes and results for our paper:
 ReacHGNN aims to provide a general framework for solving inter-molecular reaction performance prediction tasks, including the construction method of reaction heterogeneous graph (***RHG***) representation and the corresponding neural network architecture (***ReacHGNN***). It supports the prediction of different types of reactivity indicators such as reaction yield, transition state energy barrier, enantioselectivity and reaction rate constant which are included in this repo.
 
 <p align="center">
-  <a href="https://github.com/Masker-Li/ReacHGNN/figure">
-    <img width=50% src="figure/HeteroGraph4Reactions.png">
+  <a href="https://github.com/Masker-Li/ReacHGNN/figures">
+    <img width=50% src="figures/HeteroGraph4Reactions.png">
   </a>
 </p>
 
