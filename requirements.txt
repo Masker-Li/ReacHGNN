@@ -1,0 +1,22 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+cudatoolkit=11.3.1=h2bc3f7f_2
+joblib=1.1.1=py39h06a4308_0
+json5=0.9.6=pyhd3eb1b0_0
+matplotlib-base=3.7.0=py39h417a72b_0
+matplotlib-inline=0.1.6=py39h06a4308_0
+numpy=1.21.4=pypi_0
+numpy-base=1.23.1=py39ha15fc14_0
+pandas=1.3.4=pypi_0
+pyg=2.2.0=py39_torch_1.12.0_cu113
+pytorch=1.12.1=py3.9_cuda11.3_cudnn8.3.2_0
+pytorch-cluster=1.6.0=py39_torch_1.12.0_cu113
+pytorch-mutex=1.0=cuda
+pytorch-scatter=2.1.0=py39_torch_1.12.0_cu113
+pytorch-sparse=0.6.15=py39_torch_1.12.0_cu113
+rdkit=2022.03.5=py39h89e00b9_0
+scikit-learn=1.1.1=py39h6a678d5_0
+seaborn=0.11.2=hd8ed1ab_0
+seaborn-base=0.11.2=pyhd8ed1ab_0
+tqdm=4.64.1=py39h06a4308_0

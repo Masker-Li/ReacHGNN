@@ -19,8 +19,7 @@ Please first clone our repo and install using the setup.py. All the dependencies
 ```
 git clone https://github.com/Masker-Li/ReacHGNN.git
 cd ReacHGNN
-pip install requirements.txt (if needed)
-python setup.py install 
+conda install --yes --file requirements.txt (if needed)
 ```
 
 ## Content list

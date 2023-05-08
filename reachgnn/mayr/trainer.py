@@ -1,8 +1,6 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
-from openbabel import openbabel
-import nglview as nv
 import copy
 import torch
 from torch_scatter import scatter
