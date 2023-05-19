@@ -32,4 +32,4 @@ The descriptions of files in each folder are listed in the corresponding ```READ
 * [reachgnn](reachgnn) contains the source codes of ***RHG*** and ***ReacHGNN***
 
 
-; ## Citing ReacHGNN
+: ## Citing ReacHGNN
