@@ -3,7 +3,7 @@ A novel molecular graph heterogeneous graph neural network (HGNN) for capturing 
 
 ## Overview
 This repository includes the codes and results for our paper:
-***Capturing inter-molecular reactivity using heterogeneous graph neural network***
+***Capturing inter-molecular reactivity using heterogeneous graph neural networks***
 
 ReacHGNN aims to provide a general framework for solving inter-molecular reaction performance prediction tasks, including the construction method of reaction heterogeneous graph (***RHG***) representation and the corresponding neural network architecture (***ReacHGNN***). It supports the prediction of different types of reactivity indicators such as reaction yield, transition state energy barrier, enantioselectivity and reaction rate constant which are included in this repo.
 
@@ -32,4 +32,4 @@ The descriptions of files in each folder are listed in the corresponding ```READ
 * [reachgnn](reachgnn) contains the source codes of ***RHG*** and ***ReacHGNN***
 
 
-## Citing ReacHGNN
+; ## Citing ReacHGNN
